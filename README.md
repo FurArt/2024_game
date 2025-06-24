@@ -29,7 +29,7 @@ To run locally:
 
 git clone https://github.com/FurArt/2024_game
 
-cd game_2048
+cd 2024_game
 
 npm install
 
