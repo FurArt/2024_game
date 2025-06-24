@@ -27,10 +27,14 @@ JavaScript (ES6+)
 🧑‍💻 Getting Started
 To run locally:
 
-git clone https://github.com/FurArt/game_2048
+git clone https://github.com/FurArt/2024_game
+
 cd game_2048
+
 npm install
+
 npm start
+
 Or just open index.html in your browser if no build step is needed.
 
 💡 Features
